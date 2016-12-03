@@ -1,15 +1,19 @@
 {
-  "name": "dnt_test_11am_nov",
-  "version": "1.0.0",
-  "description": "node test package",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "node",
-    "npm"
-  ],
-  "author": "pro.shailendra@gmail.com",
-  "license": "ISC"
+    "name": "dnt_test_11am_nov",
+    "version": "1.0.1",
+    "description": "node test package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/proshailendra/dnt_test_11am_nov.git"
+    },
+    "keywords": [
+        "node",
+        "npm"
+    ],
+    "author": "pro.shailendra@gmail.com",
+    "license": "ISC"
 }
